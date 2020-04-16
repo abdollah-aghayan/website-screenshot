@@ -1,6 +1,6 @@
 ## Website Screenshot
 
-Docker-powered stateless Go API for taking screenshot from provided url
+Docker-powered stateless Go API for taking screenshot from provided website
 
 ### Installation
 
