@@ -80,3 +80,10 @@ then you can do
 ```sh
 make scale instance=the_number_of_instance
 ```
+
+####Contribution are welcome 
+    - write Unit as well as integration test
+    - improving code base
+    - improving docker file 
+    - adding new features
+    - make documentation better
