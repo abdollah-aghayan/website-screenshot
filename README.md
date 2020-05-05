@@ -6,7 +6,7 @@ Docker-powered stateless Go API for taking screenshot from provided website
 
 Before anything you need to have Docker and Golang installed
 
-You can build a single container with following command 
+You can build a single container with the following command 
 
 ```sh
 make all
@@ -81,9 +81,9 @@ then you can do
 make scale instance=the_number_of_instance
 ```
 
-####Contribution are welcome 
-    - write Unit as well as integration test
-    - improving code base
-    - improving docker file 
-    - adding new features
-    - make documentation better
+#### Contribution are welcome 
+  - write Unit as well as integration test
+  - improving code base
+  - improving docker file 
+  - adding new features
+  - make documentation better
